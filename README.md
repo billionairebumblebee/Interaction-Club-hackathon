@@ -17,9 +17,9 @@ Interaction Club starts with founder-led curation and hosting, using real availa
 
 **Conversations with 🍐 Pear VC, Outsome (International Accelerator), Mox SF, V11, Yes SF / San Francisco Chamber of Commerce and Malaika Commons SF.** These are exploratory conversations, not confirmed partnerships or endorsements. Personal texts and hand-sold invitations are additional, untracked outreach.
 
-**Pitch video:** [Watch the Interaction Club pitch](https://drive.google.com/file/d/1AtfAv09rJwj0cr7r0P3dvB0ZvBqXP-10/view?usp=drive_link).
+**Pitch video (2:25):** [Watch the Interaction Club pitch](https://drive.google.com/file/d/1AtfAv09rJwj0cr7r0P3dvB0ZvBqXP-10/view?usp=drive_link).
 
-**Full product demo:** [Watch the Interaction Club demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view?usp=sharing).
+**Full product demo (1:29):** [Watch the Interaction Club demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view?usp=sharing).
 
 **Our pitch deck:** [View the Interaction Club pitch deck on Canva](https://canva.link/9bcekujg7t9b6u2).
 
