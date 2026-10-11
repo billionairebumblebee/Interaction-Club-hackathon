@@ -1,22 +1,26 @@
 # Interaction Club
 
+**Pitch video:** [Watch the Interaction Club pitch](https://drive.google.com/file/d/1AtfAv09rJwj0cr7r0P3dvB0ZvBqXP-10/view?usp=drive_link).
+
+**Full product demo:** [Watch the Interaction Club demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view?usp=sharing).
+
 **Our pitch deck:** [View the Interaction Club pitch deck on Canva](https://canva.link/9bcekujg7t9b6u2).
 
-> We want you at our table.
+> We turn Gen Z loneliness into curated, hosted dinners.
 
-Interaction Club helps adults meet through small-group dinners and personal invitations. It starts with founder-led curation and hosting, using real availability, spending limits, interests and conversational vibe to make a plan people can attend.
+Interaction Club starts with founder-led curation and hosting, using real availability, spending limits, interests and conversational vibe to make a plan people can attend.
 
 ## From working product to real community conversations
 
-**Built, marketed and tested during hackathon week:** **237 initial cold emails**, **10+ founder-led social posts**, untracked personal texts and hand-selling, **33 unique sign-ups**, **one Berkeley dinner already hosted on October 8**, and partnership conversations with **Mox SF, Pear VC, Yes SF / SF Chamber of Commerce and Malaika Commons SF**—alongside a working invitation-to-RSVP product.
+**Built, marketed and tested during hackathon week:** **237 initial cold emails**, **10+ founder-led social posts generating ~30k combined views and impressions across platforms**, too many personal texts and hand-sold invitations to count, **36 sign-ups**, **one Berkeley dinner already hosted on October 8**, and partnership conversations with **Mox SF, Pear VC, V11, Yes SF / San Francisco Chamber of Commerce and Malaika Commons SF**—alongside a working invitation-to-RSVP product.
 
-We sent **237 initial cold emails and 10 follow-ups/replies — 247 company emails total**, opening partnership conversations with **Mox SF, Pear VC, Yes SF / SF Chamber of Commerce and Malaika Commons SF** about bringing Interaction Club to their communities.
+We sent **237 initial cold emails and 10 follow-ups/replies — 247 company emails total**, opening partnership conversations with **Mox SF, Pear VC, V11, Yes SF / San Francisco Chamber of Commerce and Malaika Commons SF** about bringing Interaction Club to their communities. Following an internal referral, **Sydney at the San Francisco Chamber of Commerce requested a conversation on behalf of Yes SF** to explore how Interaction Club could benefit the organization. V11 is a separate community organization represented by Jasper, who joined the Pear conversation and offered to chat next week; this is one shared email thread, not a separate cold-outreach response.
 
 I personally published **10+ founder-led social posts, including videos and Stories**, recorded product demos, pitched on campus, and sent more personal texts and hand-sold invitations than I could keep count of. I documented the work as I went: the build, handwritten name tags, dinner preparation and the first dinner itself. That founder-led storytelling brought people into the product, while participant feedback and buyer conversations shaped what we built next.
 
 ## Hackathon week: October 5–11, 2026
 
-I researched the problem before the hackathon, then rebuilt an unfinished prototype into a working invitation and hosting experience during the week. **Each day had a focus, but building and marketing happened together.** I created demos, practiced the pitch, hand-sold invitations, documented preparation and hosting, and turned the process into founder-led content. By Friday, I had pitched Interaction Club three times. Personal outreach was untracked; company outreach totaled **237 initial cold emails and 10 follow-ups/replies, or 247 company emails**. Saturday and Sunday activities below remain planned or scheduled.
+I researched the problem before the hackathon, then rebuilt an unfinished prototype into a working invitation and hosting experience during the week. **Each day had a focus, but building and marketing happened together.** I created demos, practiced the pitch, hand-sold invitations, documented preparation and hosting, and turned the process into founder-led content, generating **~30k combined views and impressions across platforms** as of October 10. By Friday, I had pitched Interaction Club three times. Personal outreach was untracked; company outreach totaled **237 initial cold emails and 10 follow-ups/replies, or 247 company emails**. Saturday and Sunday activities below remain planned or scheduled.
 
 | Day | Product and real-world execution | Marketing, content and distribution |
 | --- | --- | --- |
@@ -25,8 +29,8 @@ I researched the problem before the hackathon, then rebuilt an unfinished protot
 | Tue, Oct 6 | Improved durable Sheets delivery and retries, shortened intake, added date-specific dinner choices and community affinity, and refined referral and partner invitation pages. Recorded demos and practiced the pitch with the consulting club. | **44 initial cold emails.** Founder hand-selling, untracked. Created product-demo content and pitched to recruit participants and test the message. |
 | Wed, Oct 7 | Added roster-gated dinner access, explicit participation/photo choices, clearer RSVP controls and saved-response celebrations. Used community-operator responses to refine the member-only dinner offer. | **31 initial cold emails.** Founder hand-selling, untracked. Published **one founder-introduction reel and one FOMO carousel**; continued creating content and recruiting participants. |
 | Thu, Oct 8 | Aligned invitations with Calendar timing and consolidated matching, hosting and business operations. **Hosted the first Berkeley dinner with four attendees.** Made name tags, photographed the experience and captured lessons for the next dinner. | **89 initial cold emails.** Founder hand-selling, untracked. Published **one FOMO carousel and one invitation-demo reel**. Documented dinner preparation and delivery for founder storytelling. |
-| Fri, Oct 9 | Refined the presentation, technical narrative, delivery economics and scalable hosting model. Continued pitch practice. Postponed the second dinner after too few guests confirmed during midterms. Reached **33 unique sign-ups and 20 substantive human replies across 18 organizations**. | **73 initial cold emails.** More founder hand-selling, untracked. Published **one full-demo reel and one founder-flex carousel about being recruited**; continued content creation and partnership follow-ups. |
-| Sat, Oct 10 | **Planned:** rehearse the pitch, attend an SF Tech Week event, prepare the final submission and record the **2–3 minute company pitch**. | **Planned:** founder outreach and pitch practice; one FOMO carousel about the first dinner and one company-pitch reel covering the vision, scalability, technical implementation and AI-assisted community operations. Turn the documented week into the launch story. |
+| Fri, Oct 9 | Refined the presentation, technical narrative, delivery economics and scalable hosting model. Continued pitch practice. Postponed the second dinner after too few guests confirmed during midterms. Reached **36 sign-ups** by the evening; the earlier outreach audit recorded **20 substantive human replies across 18 organizations**. **Friday night: cried about being rejected a lot.** | **73 initial cold emails.** More founder hand-selling, untracked. Published **one full-demo reel and one founder-flex carousel about being recruited**; continued content creation and partnership follow-ups. |
+| Sat, Oct 10 | **Planned:** rehearse the pitch, attend the **NGEN SF Tech Week event**, prepare the final submission and record the **2–3 minute company pitch**. | **Planned:** founder outreach and pitch practice; one FOMO carousel about the first dinner and one company-pitch reel covering the vision, scalability, technical implementation and AI-assisted community operations. Turn the documented week into the launch story. |
 | Sun, Oct 11 | **Scheduled:** Demo Day at SCET, Grimes Engineering Center, top floor, 1–4 PM; table rounds 1:30–2:30 PM. Finalists pitch for three minutes. | **Planned:** pitch the working product and company vision to judges and attendees, recruit interested participants and partners, and document Demo Day. |
 
 ### Partner outreach prospects — updated October 10
@@ -35,8 +39,9 @@ I researched the problem before the hackathon, then rebuilt an unfinished protot
 | --- | --- | --- |
 | **Outsome (International Accelerator)** | Expressed interest in a potential paid pilot for an upcoming SF cohort and asked for our organizing fee and typical headcount before deciding. | Share a scoped proposal with pricing and group size. |
 | **LAUNCH accelerator** | Its Managing Director invited us to reconnect when raising funding and offered a conversation about the business. | Reconnect when preparing a fundraise. |
-| **Yes SF / SF Chamber of Commerce** | Following an internal referral, Sydney requested a call to explore how Interaction Club could benefit the organization. | Coordinate a conversation for next week. |
-| **Pear VC** | Khalil asked about our community, previous founder/VC-focused events and costs, and included another contact in the conversation. | Share our launch progress and discuss a first pilot. |
+| **Yes SF / San Francisco Chamber of Commerce** | Following an internal referral, Sydney requested a call on behalf of Yes SF to explore how Interaction Club could benefit the organization. | Coordinate a conversation for next week. |
+| **Pear VC** | Khalil asked about our community, previous founder/VC-focused events and costs, and included Jasper from V11 in the conversation. | Launch progress shared; discussing the audience, format and commercial fit. |
+| **V11** | Jasper joined the Pear thread, shared experience building V11's community and events, and offered to chat next week. | Explore the format and scope; no event agreed. |
 | **Mox SF** | Robin expressed interest in a dinner entirely for Mox members, with space and support for facilitating matches. | Replied to discuss the pilot format and shared a personalized concept preview. |
 | **Malaika (San Francisco)** | Discussed community promotion and potential recurring dinners. | Continue discussing the format and distribution opportunity. |
 | **StartOut** | Cori forwarded our proposal to the team organizing Bay Area events for consideration. | Await the events team's review. |
@@ -59,10 +64,6 @@ Vivian initially explored forming a Berkeley student club, then chose an indepen
 The foundation brought into the hackathon was problem discovery, early conversations and a clear product direction—not a finished product. This week's work turned that foundation into the implementation and operating workflows described below. The public submission repository was created during hackathon week; the original private repository is retained separately, not rewritten or backdated.
 
 The framework/tooling scaffold and some basic UI, utility and planning files were retained from the earlier prototype. This is not a claim that every line was newly authored. The week-specific features and workflow changes are described below. Private outreach, negotiation materials, participant records, credentials and production event configuration are excluded.
-
-**Pitch/demo video:** [Watch the full Interaction Club demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view).
-
-The hackathon requests a **2–3 minute pitch or demo video**. The linked `full demo.mp4` is **1:29**, as checked October 9.
 
 - Primary: **Track 5 — Consumer & New Experiences**
 - Secondary: **Track 3 — Health & Human Performance**, focused on social connection and belonging. No clinical or health-outcome claims.
@@ -128,7 +129,7 @@ Alongside the product, we developed a private business playbook covering custome
 
 The initial consumer experiment tests whether a personal invitation and a thoughtfully hosted small group turn interest into attendance and independent second hangouts. A potential business customer is a community operator who wants its existing members to connect, without planning each gathering itself.
 
-Interaction Club's outreach has opened exploratory conversations with **Mox SF, Pear VC and Yes SF** about community gatherings. These conversations are helping shape the offer: member profiles, curated groups, a prepared host and operational follow-through. Mox requested a dinner for its existing members; the fee is not agreed. Pear asked about event history and costs, not an endorsement. Yes SF requested a conversation. Malaika discussed community promotion and potential recurring dinners. The next commercial test is a paid hosted program and repeat purchase, with host compensation included in delivery costs.
+Interaction Club's outreach has opened exploratory conversations with **Mox SF, Pear VC, V11 and Yes SF** about community gatherings. These conversations are helping shape the offer: member profiles, curated groups, a prepared host and operational follow-through. Mox requested a dinner for its existing members; the fee is not agreed. Pear asked about event history and costs, not an endorsement. Jasper from V11 offered to chat next week in the same thread. Yes SF requested a conversation. Malaika discussed community promotion and potential recurring dinners. The next commercial test is a paid hosted program and repeat purchase, with host compensation included in delivery costs.
 
 Private prospect contacts, participant records, pricing proposals and agreement drafts are not part of this public summary.
 
@@ -162,18 +163,18 @@ During hackathon week, Vivian took Interaction Club beyond the code through pers
 | Organizations with substantive human replies | 18 |
 | Organizations declining the current pitch, mailbox-audited | 12 |
 | Additional founder-reported decline, outside mailbox audit | 1 |
-| Interested/exploratory organizations: Mox SF, Pear VC, Yes SF | 3 |
+| Interested/exploratory organizations: Mox SF, Pear VC, V11, Yes SF | 4 |
 | Confirmed paid partnership agreements | 0 |
 
 The October 9 mailbox audit counts **237 initial + 10 follow-up/reply emails = 247 sent**. All 73 previously scheduled Friday messages have been sent; none remain scheduled. Sent volume is not a delivered-to-inbox metric. Human-response counts exclude automated replies, bots and Mercury form routing. The additional founder-reported decline is Jobright; response categories can overlap and are not an additive funnel. StartOut's internal forwarding is not counted as buying interest. No paid deal is evidenced. Personal text/outreach volume is **untracked**.
 
 **Commercial learning:** interest in hosting for an existing member community points toward a clearer buyer use case than sponsoring a six-student dinner. Onshape explicitly questioned the sponsor return on that small format. This is an early positioning insight from outreach, not proof of willingness to pay or repeat purchase.
 
-### Community sign-ups and dinner invitations — October 9 update
+### Community sign-ups — October 10; dinner invitations — October 9
 
 | Metric | Count |
 | --- | ---: |
-| **Unique sign-ups in Members, including Vivian** | **33** |
+| **Community sign-ups — latest October 10 count** | **36** |
 | **Unique people on dinner invitation rosters, including Vivian** | **10** |
 | Invitation instances across two dinner rosters, including Vivian | 12 |
 | Guest-only unique invitees | 9 |
@@ -185,7 +186,7 @@ The October 9 mailbox audit counts **237 initial + 10 follow-up/reply emails = 2
 | First-dinner attendees including founder-host, founder-reported | 4 |
 | Second dinner proposed for October 9; subsequently postponed | 1 |
 
-The October 9 Members audit confirms **33 unique sign-ups including Vivian**. Invitation instances count a person again when they appear on a second dinner roster; they are not unique people or attendance. Guest RSVP totals are separate from the host's participation. Invitations closed by the organizer after Dinner 002 was postponed are **not guest-submitted declines, late cancellations or no-shows**. Vivian reported on October 9 that **three guests plus herself attended Dinner 001 on October 8: four people total**. The October 9 dinner was postponed because too few guests confirmed; it is not counted as delivered. Repeat attendance and independent second hangouts have not been established.
+The latest October 10 community count is **36 sign-ups**. Invitation instances count a person again when they appear on a second dinner roster; they are not unique people or attendance. Guest RSVP totals are separate from the host's participation. Invitations closed by the organizer after Dinner 002 was postponed are **not guest-submitted declines, late cancellations or no-shows**. Vivian reported on October 9 that **three guests plus herself attended Dinner 001 on October 8: four people total**. The October 9 dinner was postponed because too few guests confirmed; it is not counted as delivered. Repeat attendance and independent second hangouts have not been established.
 
 ### First live pilot delivered — October 8
 
