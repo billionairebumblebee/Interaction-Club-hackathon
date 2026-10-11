@@ -1,38 +1,53 @@
 # Interaction Club
 
-> We want you at our table. Meet new people through small-group plans and personal invitations.
+> We want you at our table. Interaction Club makes meeting people offline easier through thoughtfully matched small-group dinners and personal invitations.
 
-Canonical website: https://www.interaction.club/
+Founded and built by Vivian Yang, a UC Berkeley mechanical engineering student. Website: https://www.interaction.club/. Public repository: https://github.com/billionairebumblebee/Interaction-Club. Updated October 11, 2026; launch metrics are founder-reported as of October 10.
 
-## How it works
+Finding an event is not the same as finding your people. Interaction Club coordinates the group and the plan rather than providing another event feed. Adults 18+ share availability, budgets, interests and table preferences. An organizer reviews compatible groups and sends a private invitation; guests accept or decline. Joining the matching pool does not guarantee a seat.
 
-Joining is free. Adults 18+ complete a personality quiz with availability, budget, and plan preferences, plus optional interests. An organizer reviews possible groups and sends a separate invitation when a plan fits and hosting capacity is available. Joining the matching pool does not guarantee a dinner seat. Food and activity costs are disclosed before guests accept.
+Hackathon-week results: 36 sign-ups; 237 initial company emails plus 10 follow-ups/replies; 10+ founder-led social posts; ~30k combined views and impressions across platforms, not unique people reached. The October 8 pilot dinner had four attendees including Vivian. A second dinner was postponed after too few confirmations during midterms.
 
-The initial pilot is in Berkeley. The broader idea is to make real-world connection easier through personal invitations, not an endless event feed. Matching uses practical constraints and participant preferences; it does not promise scientifically validated personality compatibility.
+Exploratory conversations involve six communities/organizations: Pear VC, Outsome (International Accelerator), Mox SF, V11, Yes SF / San Francisco Chamber of Commerce and Malaika Commons SF. These are conversations, not confirmed partnerships, endorsements, investment or revenue.
 
-## Product and community
+The first pilot was founder-hosted to test the experience. The intended scalable model is self-guided small community dinners, with managed coordination and optional facilitation for paying companies or community spaces. Food, catering and any venue charges are separately funded rather than deducted from the operations fee. This model and willingness to pay are commercial tests, not established unit economics.
 
-- [Home](https://www.interaction.club/): product overview and personal invitations.
-- [How it works](https://www.interaction.club/how-it-works): matching, invitations, attendance, and feedback.
-- [Personality quiz](https://www.interaction.club/join): join the matching pool.
-- [FAQ](https://www.interaction.club/faq): costs, referrals, matching, and common questions.
-- [About](https://www.interaction.club/about): founder Vivian and the story behind the club.
-- [Philosophy](https://www.interaction.club/philosophy): product principles.
-- [Invite a friend](https://www.interaction.club/share): create a personal invitation link.
+The web workflow uses Next.js, React and TypeScript, private Vercel Blob records, secret-authenticated Google Sheets delivery, private dinner access, saved RSVPs and consent, calendar export and arrival-support actions. Matching suggestions are deterministic rules with human review. An external AI assistant supports founder operations; there is no integrated autonomous AI matchmaker or validated personality-compatibility score. Native apps, integrated messaging and scaled delivery remain future work.
 
-## Business
+## Project and demonstration
 
-- [Sponsors](https://www.interaction.club/sponsors): explore sponsoring a gathering.
-- [Investors](https://www.interaction.club/investors): founder pitch deck, thesis, and market context.
-- Business contact: vivian_yang@berkeley.edu.
+- [README](https://github.com/billionairebumblebee/Interaction-Club/blob/main/README.md): product, audience, timeline, implementation, pilot lessons, business model and dated results.
+- [Plain-text README](https://raw.githubusercontent.com/billionairebumblebee/Interaction-Club/main/README.md): Markdown project overview.
+- [Company pitch video](https://drive.google.com/file/d/1AtfAv09rJwj0cr7r0P3dvB0ZvBqXP-10/view): founder pitch.
+- [Full product demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view): recorded walkthrough.
+- [Pitch deck](https://canva.link/9bcekujg7t9b6u2): presentation.
+- [Synthetic invitation demo](https://www.interaction.club/preview/dinner): labeled synthetic event, browser-only demo RSVP state, no live invitation or payment.
+- [Website](https://www.interaction.club/): invitation-first experience.
 
-## Privacy and participation
+## Technical evidence
 
-Interaction Club does not request a home address or continuous location tracking. Participant profiles and feedback are not public directories. Public invitation links show the display name chosen by the referrer. Dietary and accessibility needs guide venue decisions, not social exclusion; accommodations need confirmation with the venue.
+- [Matching](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/matching.ts): practical group constraints and preference heuristics.
+- [Dinner invitations](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/dinner-invitation.ts): invitation and participation implementation.
+- [Sheets delivery](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/sheets.ts): organizer-record synchronization.
+- [AI-assisted community operations](https://github.com/billionairebumblebee/Interaction-Club/blob/main/docs/AI_COMMUNITY_OPERATIONS.md): founder workflow and implementation boundaries.
+- [Arrival workflow](https://github.com/billionairebumblebee/Interaction-Club/blob/main/docs/DINNER_ARRIVALS.md): arrival support and remaining delivery work.
+- [Matching tests](https://github.com/billionairebumblebee/Interaction-Club/blob/main/scripts/matching-test.cjs): synthetic rule checks.
+- [Invitation tests](https://github.com/billionairebumblebee/Interaction-Club/blob/main/scripts/dinner-invitation-test.cjs): synthetic access and RSVP checks.
 
-- [Privacy notice](https://www.interaction.club/privacy)
-- [Your data](https://www.interaction.club/data)
-- [Terms of use](https://www.interaction.club/terms)
-- [Safety guidance](https://www.interaction.club/safety)
+## Participation and business
 
-The club does not perform identity verification or background checks. Private invitation URLs, organizer tools, and attendee data are not sources for public indexing.
+- [Join](https://www.interaction.club/join): personality quiz and matching pool.
+- [How it works](https://www.interaction.club/how-it-works): member journey.
+- [FAQ](https://www.interaction.club/faq): participation and costs.
+- [About](https://www.interaction.club/about): founder story.
+- [Sponsors](https://www.interaction.club/sponsors): proposed sponsored experiences.
+- [Investors](https://www.interaction.club/investors): company thesis and market context.
+
+## Privacy and safety
+
+Private participant records, guest lists, invitation tokens, credentials and correspondence are not public project materials. The product does not perform identity verification or background checks. Dietary and accessibility details support host and venue review without guaranteeing accommodation. The pilot does not establish clinical loneliness reduction or lasting friendships.
+
+- [Privacy](https://www.interaction.club/privacy): data handling.
+- [Your data](https://www.interaction.club/data): participant data information.
+- [Terms](https://www.interaction.club/terms): participation terms.
+- [Safety](https://www.interaction.club/safety): meeting guidance.

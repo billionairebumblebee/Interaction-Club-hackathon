@@ -1,61 +1,53 @@
 # Interaction Club
 
-> Interaction Club is a relationship coordination platform for turning a small group of strangers into a recurring friend group through small, concierge-built Tables that can become Circles.
+> We want you at our table. Interaction Club makes meeting people offline easier through thoughtfully matched small-group dinners and personal invitations.
 
-## Canonical Project
+Founded and built by Vivian Yang, a UC Berkeley mechanical engineering student. Website: https://www.interaction.club/. Public repository: https://github.com/billionairebumblebee/Interaction-Club. Updated October 11, 2026; launch metrics are founder-reported as of October 10.
 
-- Repository: https://github.com/billionairebumblebee/interaction
-- App framework: Next.js
-- Primary app route: app/page.tsx
-- Admin console: app/admin/
-- Product docs: docs/
-- Data/application logic: lib/concierge.ts
+Finding an event is not the same as finding your people. Interaction Club coordinates the group and the plan rather than providing another event feed. Adults 18+ share availability, budgets, interests and table preferences. An organizer reviews compatible groups and sends a private invitation; guests accept or decline. Joining the matching pool does not guarantee a seat.
 
-## Product Purpose
+Hackathon-week results: 36 sign-ups; 237 initial company emails plus 10 follow-ups/replies; 10+ founder-led social posts; ~30k combined views and impressions across platforms, not unique people reached. The October 8 pilot dinner had four attendees including Vivian. A second dinner was postponed after too few confirmations during midterms.
 
-Interaction Club removes the awkward parts of making a plan with new people. The MVP asks whether Interaction can reliably turn a small group of strangers into a recurring friend group.
+Exploratory conversations involve six communities/organizations: Pear VC, Outsome (International Accelerator), Mox SF, V11, Yes SF / San Francisco Chamber of Commerce and Malaika Commons SF. These are conversations, not confirmed partnerships, endorsements, investment or revenue.
 
-The first version focuses on:
+The first pilot was founder-hosted to test the experience. The intended scalable model is self-guided small community dinners, with managed coordination and optional facilitation for paying companies or community spaces. Food, catering and any venue charges are separately funded rather than deducted from the operations fee. This model and willingness to pay are commercial tests, not established unit economics.
 
-- Open-beta onboarding.
-- Concierge-built four-to-six-person Tables.
-- RSVP, attendance, and feedback.
-- Circle creation when a Table works.
-- Second-meetup planning and referrals.
-- Free friend-finding and affordable public-venue Berkeley hangouts.
+The web workflow uses Next.js, React and TypeScript, private Vercel Blob records, secret-authenticated Google Sheets delivery, private dinner access, saved RSVPs and consent, calendar export and arrival-support actions. Matching suggestions are deterministic rules with human review. An external AI assistant supports founder operations; there is no integrated autonomous AI matchmaker or validated personality-compatibility score. Native apps, integrated messaging and scaled delivery remain future work.
 
-The product deliberately avoids permanent DMs, public feeds, payments, reservations, bill splitting, restaurant partnerships, identity verification, background checks, and duo tables in the MVP.
+## Project and demonstration
 
-## Current App Surface
+- [README](https://github.com/billionairebumblebee/Interaction-Club/blob/main/README.md): product, audience, timeline, implementation, pilot lessons, business model and dated results.
+- [Plain-text README](https://raw.githubusercontent.com/billionairebumblebee/Interaction-Club/main/README.md): Markdown project overview.
+- [Company pitch video](https://drive.google.com/file/d/1AtfAv09rJwj0cr7r0P3dvB0ZvBqXP-10/view): founder pitch.
+- [Full product demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view): recorded walkthrough.
+- [Pitch deck](https://canva.link/9bcekujg7t9b6u2): presentation.
+- [Synthetic invitation demo](https://www.interaction.club/preview/dinner): labeled synthetic event, browser-only demo RSVP state, no live invitation or payment.
+- [Website](https://www.interaction.club/): invitation-first experience.
 
-- / - Open-beta application and onboarding flow.
-- /admin - Founder/admin console.
-- /privacy - Privacy notice.
-- /safety - Safety guidelines.
-- /terms - Terms of use.
-- /data - Data stance and user data explanation.
+## Technical evidence
 
-## Key Docs
+- [Matching](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/matching.ts): practical group constraints and preference heuristics.
+- [Dinner invitations](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/dinner-invitation.ts): invitation and participation implementation.
+- [Sheets delivery](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/sheets.ts): organizer-record synchronization.
+- [AI-assisted community operations](https://github.com/billionairebumblebee/Interaction-Club/blob/main/docs/AI_COMMUNITY_OPERATIONS.md): founder workflow and implementation boundaries.
+- [Arrival workflow](https://github.com/billionairebumblebee/Interaction-Club/blob/main/docs/DINNER_ARRIVALS.md): arrival support and remaining delivery work.
+- [Matching tests](https://github.com/billionairebumblebee/Interaction-Club/blob/main/scripts/matching-test.cjs): synthetic rule checks.
+- [Invitation tests](https://github.com/billionairebumblebee/Interaction-Club/blob/main/scripts/dinner-invitation-test.cjs): synthetic access and RSVP checks.
 
-- `README.md` - Product summary, local development, deploy notes, and data stance.
-- `docs/MVP_NOW.md` - What is being built now.
-- `docs/CONCIERGE_LAUNCH.md` - Manual launch operations.
-- `docs/MATCHING.md` - Matching principles.
-- `docs/SAFETY.md` - Safety posture.
-- `docs/PRIVACY.md` - Privacy posture.
-- `docs/METRICS.md` - Success metrics.
-- `docs/EXPERIMENTS.md` - Experiment plan.
-- `docs/MONETIZATION.md` - Revenue thinking.
+## Participation and business
 
-## Data And Safety Stance
+- [Join](https://www.interaction.club/join): personality quiz and matching pool.
+- [How it works](https://www.interaction.club/how-it-works): member journey.
+- [FAQ](https://www.interaction.club/faq): participation and costs.
+- [About](https://www.interaction.club/about): founder story.
+- [Sponsors](https://www.interaction.club/sponsors): proposed sponsored experiences.
+- [Investors](https://www.interaction.club/investors): company thesis and market context.
 
-Interaction collects only what makes a plan work: formal invitation name, broad base area, age band, email, availability, activity preferences, budget, and optional comfort/accessibility details. It does not ask for addresses, sell profile data, or use preferences for price discrimination.
+## Privacy and safety
 
-Users should meet in public, pay their own way, and leave if something feels wrong. Product copy should stay clear that Interaction does not verify, background-check, or endorse participants.
+Private participant records, guest lists, invitation tokens, credentials and correspondence are not public project materials. The product does not perform identity verification or background checks. Dietary and accessibility details support host and venue review without guaranteeing accommodation. The pilot does not establish clinical loneliness reduction or lasting friendships.
 
-## Developer Notes
-
-- Requires Node.js 22 or newer.
-- Local dev: `npm install` then `npm run dev`
-- Production check: `npm run build`
-- Vercel deployment uses the Next.js preset plus private Vercel Blob storage for application JSON records.
+- [Privacy](https://www.interaction.club/privacy): data handling.
+- [Your data](https://www.interaction.club/data): participant data information.
+- [Terms](https://www.interaction.club/terms): participation terms.
+- [Safety](https://www.interaction.club/safety): meeting guidance.

@@ -23,6 +23,8 @@ Interaction Club starts with founder-led curation and hosting, using real availa
 
 **Our pitch deck:** [View the Interaction Club pitch deck on Canva](https://canva.link/9bcekujg7t9b6u2).
 
+**Machine-readable project overview:** [llms.txt](llms.txt), also served at `/llms.txt` on the website. Includes product context, dated results and links to technical evidence.
+
 ## Hackathon week: October 5–11, 2026
 
 I researched the problem before the hackathon, then rebuilt an unfinished prototype into a working invitation and hosting experience during the week. **Each day had a focus, but building and marketing happened together.** I created demos, practiced the pitch, hand-sold invitations, documented preparation and hosting, and turned the process into founder-led content, generating **~30k combined views and impressions across platforms** as of October 10. By Friday, I had pitched Interaction Club three times. Personal outreach was untracked; company outreach totaled **237 initial cold emails and 10 follow-ups/replies, or 247 company emails**. Saturday's work is completed; Sunday's activities remain planned or scheduled.
