@@ -10,6 +10,7 @@ Interaction Club starts with founder-led curation and hosting, using real availa
 | ---: | --- |
 | **237** | Initial cold emails |
 | **10+** | Founder-led social posts |
+| **♾️** | Ongoing founder hand-sells and texts to friends and founders |
 | **~30k** | Combined views and impressions across platforms |
 | **36** | Sign-ups |
 | **1** | Dinner hosted on October 8, with four attendees including Vivian |
