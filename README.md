@@ -4,6 +4,12 @@
 
 Interaction Club starts with founder-led curation and hosting, using real availability, spending limits, interests and conversational vibe to make a plan people can attend.
 
+## 🏆 Top 10 finalist
+
+**Interaction Club was a Top 10 finalist at the SCET Innovation Intelligence Hackathon during SF Tech Week.** The event had approximately **200 participants**—a participant count, not a count of competing teams. Vivian delivered the finalist pitch and Q&A, and several judges approached Vivian afterward to connect and follow the project's progress. Result and judge feedback are founder-reported; these connections are warm leads, not investment commitments.
+
+This public repository preserves the hackathon build and results as a time capsule. Ongoing product development will continue separately.
+
 **Built, marketed and tested during hackathon week:** a working invitation-to-RSVP product, real participants, a delivered dinner and exploratory partnership conversations.
 
 | By October 10 | Launch results |
@@ -28,7 +34,7 @@ Interaction Club starts with founder-led curation and hosting, using real availa
 
 ## Hackathon week: October 5–11, 2026
 
-I researched the problem before the hackathon, then rebuilt an unfinished prototype into a working invitation and hosting experience during the week. **Each day had a focus, but building and marketing happened together.** I created demos, practiced the pitch, hand-sold invitations, documented preparation and hosting, and turned the process into founder-led content, generating **~30k combined views and impressions across platforms** as of October 10. By Friday, I had pitched Interaction Club three times. Personal outreach was untracked; company outreach totaled **237 initial cold emails and 10 follow-ups/replies, or 247 company emails**. Saturday's work is completed; Sunday's activities remain planned or scheduled.
+I researched the problem before the hackathon, then rebuilt an unfinished prototype into a working invitation and hosting experience during the week. **Each day had a focus, but building and marketing happened together.** I created demos, practiced the pitch, hand-sold invitations, documented preparation and hosting, and turned the process into founder-led content, generating **~30k combined views and impressions across platforms** as of October 10. By Friday, I had pitched Interaction Club three times. Personal outreach was untracked; company outreach totaled **237 initial cold emails and 10 follow-ups/replies, or 247 company emails**. The week culminated in a Top 10 finalist pitch on Sunday, October 11.
 
 | Day | Product and real-world execution | Marketing, content and distribution |
 | --- | --- | --- |
@@ -39,7 +45,7 @@ I researched the problem before the hackathon, then rebuilt an unfinished protot
 | Thu, Oct 8 | Aligned invitations with Calendar timing and consolidated matching, hosting and business operations. **Hosted the first Berkeley dinner with four attendees.** Made name tags, photographed the experience and captured lessons for the next dinner. | **89 initial cold emails.** Founder hand-selling, untracked. Published **one FOMO carousel and one invitation-demo reel**. Documented dinner preparation and delivery for founder storytelling. |
 | Fri, Oct 9 | Refined the presentation, technical narrative, delivery economics and scalable hosting model. Continued pitch practice. Postponed the second dinner after too few guests confirmed during midterms. Reached **36 sign-ups** by the evening; the earlier outreach audit recorded **20 substantive human replies across 18 organizations**. **Friday night: cried about being rejected a lot.** | **73 initial cold emails.** More founder hand-selling, untracked. Published **one full-demo reel and one founder-flex carousel about being recruited**; continued content creation and partnership follow-ups. |
 | Sat, Oct 10 | Rehearsed the pitch, attended an **SF Tech Week event**, recorded the company pitch and submitted the project. **Hosting lesson:** a decent space, clear facilitation and enough food for expected guests matter more than elaborate production. | Practiced my one-liner a bajillion times (approximately), networked with founders and aspiring founders, and heard several say they had tried stranger meetups or would be interested. **Learning:** explain the experience in one clear sentence, then listen. These were informal interest signals, not confirmed sign-ups. |
-| Sun, Oct 11 | **Scheduled:** Demo Day at SCET, Grimes Engineering Center, top floor, 1–4 PM; table rounds 1:30–2:30 PM. Finalists pitch for three minutes. | **The ambition:** win first place and get funded :) **The plan:** show the working product, share what the first dinner taught us, meet potential members and partners, and make the pitch count. |
+| Sun, Oct 11 | **Top 10 finalist!** Delivered the one-on-one judging pitch, finalist presentation and Q&A at the SCET Innovation Intelligence Hackathon. | Several judges approached Vivian afterward to connect and expressed interest in following the project. **Learning:** explain the product and business clearly, handle objections, and turn enthusiasm into specific follow-up conversations. These are warm relationships, not funding commitments. |
 
 **Saturday's hosting takeaway:** in my experience, the event did not have enough food, and the hosting left room for improvement. It gave me a useful example of what I would do differently. Hosting does not have to mean elaborate decorations or a huge turnout: have a decent space, know how to run the room, and plan enough food for the people you expect. For Interaction Club, that means distinguishing self-guided small dinners from larger or paid experiences that need active facilitation.
 
