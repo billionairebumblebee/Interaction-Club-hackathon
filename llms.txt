@@ -2,7 +2,7 @@
 
 > We want you at our table. Interaction Club makes meeting people offline easier through thoughtfully matched small-group dinners and personal invitations.
 
-Founded and built by Vivian Yang, a UC Berkeley mechanical engineering student. Website: https://www.interaction.club/. Public repository: https://github.com/billionairebumblebee/Interaction-Club. Updated October 11, 2026; launch metrics are founder-reported as of October 10.
+Founded and built by Vivian Yang, a UC Berkeley mechanical engineering student. Website: https://www.interaction.club/. Public repository: https://github.com/billionairebumblebee/Interaction-Club-hackathon. Updated October 11, 2026; launch metrics are founder-reported as of October 10.
 
 Finding an event is not the same as finding your people. Interaction Club coordinates the group and the plan rather than providing another event feed. Adults 18+ share availability, budgets, interests and table preferences. An organizer reviews compatible groups and sends a private invitation; guests accept or decline. Joining the matching pool does not guarantee a seat.
 
@@ -16,8 +16,8 @@ The web workflow uses Next.js, React and TypeScript, private Vercel Blob records
 
 ## Project and demonstration
 
-- [README](https://github.com/billionairebumblebee/Interaction-Club/blob/main/README.md): product, audience, timeline, implementation, pilot lessons, business model and dated results.
-- [Plain-text README](https://raw.githubusercontent.com/billionairebumblebee/Interaction-Club/main/README.md): Markdown project overview.
+- [README](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/README.md): product, audience, timeline, implementation, pilot lessons, business model and dated results.
+- [Plain-text README](https://raw.githubusercontent.com/billionairebumblebee/Interaction-Club-hackathon/main/README.md): Markdown project overview.
 - [Company pitch video](https://drive.google.com/file/d/1AtfAv09rJwj0cr7r0P3dvB0ZvBqXP-10/view): founder pitch.
 - [Full product demo](https://drive.google.com/file/d/1_dx79GduuyG2RJd1URAOAdQR9BekCrN5/view): recorded walkthrough.
 - [Pitch deck](https://canva.link/9bcekujg7t9b6u2): presentation.
@@ -26,13 +26,13 @@ The web workflow uses Next.js, React and TypeScript, private Vercel Blob records
 
 ## Technical evidence
 
-- [Matching](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/matching.ts): practical group constraints and preference heuristics.
-- [Dinner invitations](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/dinner-invitation.ts): invitation and participation implementation.
-- [Sheets delivery](https://github.com/billionairebumblebee/Interaction-Club/blob/main/lib/sheets.ts): organizer-record synchronization.
-- [AI-assisted community operations](https://github.com/billionairebumblebee/Interaction-Club/blob/main/docs/AI_COMMUNITY_OPERATIONS.md): founder workflow and implementation boundaries.
-- [Arrival workflow](https://github.com/billionairebumblebee/Interaction-Club/blob/main/docs/DINNER_ARRIVALS.md): arrival support and remaining delivery work.
-- [Matching tests](https://github.com/billionairebumblebee/Interaction-Club/blob/main/scripts/matching-test.cjs): synthetic rule checks.
-- [Invitation tests](https://github.com/billionairebumblebee/Interaction-Club/blob/main/scripts/dinner-invitation-test.cjs): synthetic access and RSVP checks.
+- [Matching](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/lib/matching.ts): practical group constraints and preference heuristics.
+- [Dinner invitations](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/lib/dinner-invitation.ts): invitation and participation implementation.
+- [Sheets delivery](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/lib/sheets.ts): organizer-record synchronization.
+- [AI-assisted community operations](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/docs/AI_COMMUNITY_OPERATIONS.md): founder workflow and implementation boundaries.
+- [Arrival workflow](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/docs/DINNER_ARRIVALS.md): arrival support and remaining delivery work.
+- [Matching tests](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/scripts/matching-test.cjs): synthetic rule checks.
+- [Invitation tests](https://github.com/billionairebumblebee/Interaction-Club-hackathon/blob/main/scripts/dinner-invitation-test.cjs): synthetic access and RSVP checks.
 
 ## Participation and business
 

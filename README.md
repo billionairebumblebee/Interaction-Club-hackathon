@@ -10,6 +10,8 @@ Interaction Club starts with founder-led curation and hosting, using real availa
 
 This public repository preserves the hackathon build and results as a time capsule. Ongoing product development will continue separately.
 
+**Public time capsule:** [Interaction-Club-hackathon](https://github.com/billionairebumblebee/Interaction-Club-hackathon). The finalist build is preserved under the `hackathon-finalist-2026-10-11` tag; later repository-renaming updates only correct documentation links.
+
 **Built, marketed and tested during hackathon week:** a working invitation-to-RSVP product, real participants, a delivered dinner and exploratory partnership conversations.
 
 | By October 10 | Launch results |
